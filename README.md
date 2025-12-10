@@ -90,15 +90,4 @@ with zipfile.ZipFile('maildir_reduced.zip', 'r') as zip_ref:
 - **Size**: 517,401 emails from 150 users
 - **Period**: Enron Corporation emails (1998-2002)
 
-## License
 
-Educational project - Enron dataset is publicly available for research purposes.
-
-## Author
-
-Luna Cai
-
-## Acknowledgments
-
-- Carnegie Mellon University for the Enron Email Dataset
-- Course: Advanced Data Mining (ADM)
